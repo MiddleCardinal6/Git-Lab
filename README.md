@@ -2,11 +2,11 @@
 In this lab, you will become familiar with GitHub as well as the importance of it.
 
 ## Submission Information
-- **Name:** Brady Schiff
-- **Course:** CSCI 232, Sec 01, Data Structures
-- **Due:** TBD
-- **Github:** [view the rest of my Github here](https://github.com/MiddleCardinal6)
-- **Favorites:** Top 3 pizza toppings
+**Name:** Brady Schiff  
+**Course:** CSCI 232, Sec 01, Data Structures  
+**Due:** TBD  
+**Github:** [view the rest of my Github here](https://github.com/MiddleCardinal6)   
+**Favorites:** Top 3 pizza toppings  
 1. Pepperoni
 2. Banana Peppers
 3. Mushrooms
