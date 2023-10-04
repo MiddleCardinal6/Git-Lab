@@ -1,7 +1,5 @@
 /NOT-Important/RemoveMe.txt
-/SEMI-Important/RemoveASAP.py
-/SEMI-Important/RemoveMe.py
-/SEMI-Important/ToBeRemoved.py
+/SEMI-Important/*.py
 /Important/.vs/Important
 /Important/Important.vcxproj.filters
 /Important/Important.vcxproj.user
